@@ -90,6 +90,7 @@
 |---|---|---|
 | **cash-out** | Closing Officer (Back Office) | End-of-day ritual: archive, push, backup. |
 | **project-manager** | Chief Operating Officer (COO) | Owns ROADMAP.md. Triage, prioritization, stale-item flagging across any project. |
+| **command-center** | Morning Dashboard / Daily Brief Officer | 9am 4-panel brief: stock news, geopolitics, Gmail, to-dos. Learns taste via weekly retro. |
 
 ---
 
@@ -101,6 +102,20 @@
 | **courserafied** | Training Records Keeper | Parses course material into structured knowledge base. |
 | **life-coach** | _(Not a fund role)_ | Discipline / habit coaching. |
 | **promptlatro** | _(Not a fund role)_ | Prompt-engineering game. |
+
+---
+
+### 🖥️ DESK-OPS (computer-use family — sibling to *-desk)
+
+| Brand Name | Real Hedge Fund Title | What they do |
+|---|---|---|
+| **desk-ops/file-mover** | Records Clerk | YAML-rule file mover across folders. Dry-run default. |
+| **desk-ops/finder-cleanup** | Records Clerk | Triage report for Downloads/Desktop. Propose-only. |
+| **desk-ops/shortcuts-runner** | Operations Assistant | Fires macOS Shortcuts from Claude via `shortcuts` CLI. |
+| **desk-ops/photos-organizer** | Records Clerk | _(stub v0.2)_ Album creation + dedupe in Photos.app. |
+| **desk-ops/form-filler** | Operations Assistant | _(stub v0.2)_ Generic form-fill in native apps. |
+
+All members share one contract: **propose → confirm → execute → log → undo.**
 
 ---
 
